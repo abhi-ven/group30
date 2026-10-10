@@ -54,3 +54,5 @@ def timetable_page():
                              study_end.strftime("%H:%M")],
             "hours_per_day": hours_per_day,
         })
+
+timetable_page()

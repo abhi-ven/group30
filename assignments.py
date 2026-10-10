@@ -3,6 +3,7 @@ from helper_functions import set_page, shadcn_text
 
 
 def assignments_page():
+    st.write("HELLO FROM ASSIGNMENTS") 
     set_page("My Assignments", "Upload and organise your college assignments.")
 
     if "assignments" not in st.session_state:
