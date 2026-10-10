@@ -1,6 +1,0 @@
-streamlit>=1.50,<2
-icalendar>=6.3,<8
-recurring-ical-events>=3.6,<4
-python-dotenv
-langchain-openrouter
-pypdf
