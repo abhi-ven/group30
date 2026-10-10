@@ -122,6 +122,3 @@ def assignments_page():
 
             for task in a["tasks"]:
                 st.write(f"- {task}")
-
-
-assignments_page()
