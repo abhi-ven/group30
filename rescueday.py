@@ -21,3 +21,5 @@ def rescue_page():
 
     shadcn_text("Revised schedule", variant="heading")
     st.caption("The new plan, what moved, and any deadline warnings will appear here.")
+
+rescue_page();
