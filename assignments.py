@@ -1,7 +1,6 @@
 import streamlit as st
 from helper_functions import set_page, shadcn_text
 
-
 def assignments_page():
     set_page(
         "My Assignments",
